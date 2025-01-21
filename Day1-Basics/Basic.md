@@ -72,3 +72,10 @@ conda create -p venv python==3.12
    ```bash
    npm install <package-name>
    
+
+-To activate adn env use `conda activate`
+-restart the shell
+-To deactivate adn env use `conda deactivate`
+-conda info
+-pip install -r requirements.txt
+-install ipykernel

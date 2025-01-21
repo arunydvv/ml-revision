@@ -1,0 +1,50 @@
+# Ignore Conda environment directory
+venve/
+
+# Byte-compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.env/
+.venv/
+venv/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+*.swp
+
+# Python egg files
+*.egg
+*.egg-info/
+
+# Test result files
+htmlcov/
+*.cover
+*.coverage
+*.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+
+# pipenv files
+Pipfile
+Pipfile.lock
+
+# Pyre type checker
+.pyre/
+
+# MyPy
+.mypy_cache/
