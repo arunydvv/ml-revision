@@ -48,3 +48,6 @@ Pipfile.lock
 
 # MyPy
 .mypy_cache/
+
+# Output
+.dist
